@@ -1,0 +1,23 @@
+body {
+    background-image: url("../img/img-contacts.jpg"); 
+}
+div {
+    color: aliceblue;
+    text-align: center;
+    margin: 50px 1px 1px 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+nav{color: rgb(255, 255, 255); text-align: right;}
+a{
+    color: rgb(253, 253, 253);
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+
+
+#footer1{
+    text-align: left;
+    color: aliceblue;
+}
