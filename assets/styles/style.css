@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://cdn.clarosports.com/clarosports/2023/03/vive-125313.jpg");
+}
+
+nav{color: rgb(255, 255, 255);}
+a{
+    color: rgb(253, 253, 253);
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.menu{
+    margin: 25px 25px;
+    padding: 10px 10px;
+    border: 10px;
+    text-transform: uppercase;
+    letter-spacing: 5%;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 150px;
+}
