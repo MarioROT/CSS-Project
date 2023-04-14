@@ -1,5 +1,5 @@
 body{
-    background-image: url("./assetsphoto/fondo.jpg");}
+    background-image: url("../img/fondo.jpg");}
 h1, h2 , footer{color:azure;
         font-family: 'Bad Script', 'Caveat', cursive;
     }
