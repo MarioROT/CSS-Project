@@ -33,3 +33,13 @@ strong{
 hr{
     color: #999999;
 }
+
+footer {
+    text-align: left;
+    color: aliceblue;
+    bottom: 0;
+    width:95%;
+    height:100px;
+    position: absolute;
+  
+}

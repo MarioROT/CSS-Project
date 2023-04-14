@@ -13,7 +13,17 @@ a{
     color: rgb(253, 253, 253);
     text-decoration: none;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 30px;
+    font-size: 20px;
+    word-spacing: 15px;
+}
+
+.menu{
+    margin: 25px 25px 5px;
+    padding: 10px 10px;
+    border: 10px;
+    text-transform: uppercase;
+    letter-spacing: 5%;
+    word-spacing: 15px;
 }
 
 
@@ -21,3 +31,14 @@ a{
     text-align: left;
     color: aliceblue;
 }
+
+footer {
+    text-align: left;
+    color: aliceblue;
+    bottom: 0;
+    width:95%;
+    height:100px;
+    position: absolute;
+  
+}
+
