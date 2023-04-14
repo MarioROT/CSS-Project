@@ -3,4 +3,26 @@ body{
 h1, h2 , footer{color:azure;
         font-family: 'Bad Script', 'Caveat', cursive;
     }
-    
+nav{
+    color: rgb(255, 255, 255); text-align: right;
+}
+a{
+    color: rgb(253, 253, 253);
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    word-spacing: 15px;
+}
+
+.menu{
+    margin: 25px 25px;
+    padding: 10px 10px;
+    border: 10px;
+    text-transform: uppercase;
+    letter-spacing: 5%;
+    word-spacing: 15px;
+}
+#footer1{
+    text-align: left;
+    color: aliceblue;
+}
